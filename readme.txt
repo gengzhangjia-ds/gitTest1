@@ -9,4 +9,6 @@ Git tracks changes of files.
 
 created a new branch dev
 
-created a new branch quick & simple.
+
+created a new branch is quick and simple.
+
