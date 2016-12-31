@@ -8,3 +8,5 @@ Git tracks changes of files.
 123445
 
 created a new branch dev
+
+created a new branch is quick and simple.
