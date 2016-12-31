@@ -6,3 +6,5 @@ Git have a mutable index called stage.
 Git tracks changes of files.
 
 123445
+
+created a new branch dev
