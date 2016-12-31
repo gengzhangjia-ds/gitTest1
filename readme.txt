@@ -10,5 +10,7 @@ Git tracks changes of files.
 created a new branch dev
 
 
-created a new branch is quick and simple.
+created a new branch is quick and simple .
+
+test no fast forward.
 
