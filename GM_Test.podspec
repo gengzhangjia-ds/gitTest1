@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
 #s.description  = <<-DESC
 #                   DESC
 
-  s.homepage     = "http://local/GM_Test"
+  s.homepage     = "https://github.com/gengzhangjia-ds/gitTest1"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
   s.license      = "MIT"
@@ -29,16 +29,16 @@ Pod::Spec.new do |s|
 
 
 # s.platform     = :ios
-   s.platform     = :ios, "5.0"
+   s.platform     = :ios, "9.0"
 
   #  When using multiple platforms
-  # s.ios.deployment_target = "5.0"
+    s.ios.deployment_target = "5.0"
   # s.osx.deployment_target = "10.7"
   # s.watchos.deployment_target = "2.0"
   # s.tvos.deployment_target = "9.0"
 
 
-  s.source       = { :git => "http://gengzhangjia/local/GM_Test.git" }
+  s.source       = { :git => "https://github.com/gengzhangjia-ds/gitTest1.git" }
 
 
   s.source_files  =  "pod/Classes/**/*.{h,m}"
